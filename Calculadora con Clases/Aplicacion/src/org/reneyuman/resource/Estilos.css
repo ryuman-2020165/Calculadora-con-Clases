@@ -1,0 +1,31 @@
+.anchor-pane1{
+    
+    -fx-background-radius: 30 0 0 30;
+    
+     /*C5F1FF*/
+    
+}
+
+
+.button1{
+    
+    -fx-background-color: #F04B4B;
+    
+    -fx-background-radius: 0 0 0 0;
+    
+}
+
+.button1:hover{
+    -fx-background-color: #C83F3F;
+    
+    -fx-background-radius: 0 0 0 0;
+}
+
+.button1:pressed{
+    -fx-background-color: #CF8888;
+    
+    -fx-background-radius: 0 0 0 0;
+    
+    /*75DAF1*/
+    
+}
